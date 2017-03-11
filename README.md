@@ -1,2 +1,3 @@
 # ML_theory_note_cn
-A series of machine learning theories notes in Chinese.You can see the preface at https://zhuanlan.zhihu.com/p/25528211?refer=shuxuehenyouyisisuoyiyaohaohaoxue
+A series of machine learning theories notes in Chinese. You can see the preface at https://zhuanlan.zhihu.com/p/25528211?refer=shuxuehenyouyisisuoyiyaohaohaoxue
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
